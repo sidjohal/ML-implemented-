@@ -21,7 +21,7 @@ I am in the process of cleaning and trasnferring the files from colab, hopefully
 <li>Ensemble learning</li>
 
 <h4> Unupervised Learning </h4>
-*Clustering and neural networks*
+<i>Clustering and neural networks</i>
 <li>K-means clustering </li>
 <li>HAC </li>
 <li>Neural networks: multilayer perceptron</li>
