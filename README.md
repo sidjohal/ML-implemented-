@@ -4,7 +4,7 @@
 I am in the process of cleaning and trasnferring the files from colab, hopefully will be complete soon.
 
 <h3> What does this repo contain?</h3>
-<p>Implementation of the following machine learning models </p>
+<p>Implementation of the following machine learning models using scikit-learn </p>
 
 <h4> Supervised Learning </h4>
 <i>Regression and classification</i>
